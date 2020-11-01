@@ -11,5 +11,7 @@ https://www.scrapehero.com/python-amazon-reviews-api/
 
 https://www.scrapehero.com/how-to-build-and-run-scrapers-on-a-large-scale/
 
+https://blog.hartleybrody.com/web-scraping-cheat-sheet/
+
 
 <img src="amazon_scrap.JPG">
