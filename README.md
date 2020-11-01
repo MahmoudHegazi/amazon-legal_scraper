@@ -9,3 +9,6 @@ https://www.scrapehero.com/python-amazon-reviews-api/
 
 
 https://www.scrapehero.com/how-to-build-and-run-scrapers-on-a-large-scale/
+
+
+<img src="amazon_scrap.JPG">
