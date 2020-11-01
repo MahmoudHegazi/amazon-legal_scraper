@@ -4,6 +4,7 @@
 
 1- this will scrap 1 product becuase 1 url given doing it many time in for loop before return the answer
 will allow it to scrap more than 1 page + it may take large time (it can take the urls from text file)
+2- usefull info https://support.google.com/webmasters/answer/70897?hl=en
 
 https://www.scrapehero.com/python-amazon-reviews-api/
 
